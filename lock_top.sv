@@ -12,7 +12,6 @@
 `define fail_five 4'b1011
 `define fail_six 4'b1100
 
-
 module lab3_top(SW,KEY,HEX0,HEX1,HEX2,HEX3,HEX4,HEX5,LEDR);
   input [9:0] SW;
   input [3:0] KEY;
